@@ -1,0 +1,166 @@
+body {
+  color: #40514E;
+  margin: 0px;
+  text-align: center;
+  width: 100%;
+  font-family: 'Merriweather', serif;
+  font-size: 100%;
+  
+  }
+.web{
+  text-decoration: underline;
+  }
+
+h1{
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 3rem;
+  margin: 50px auto 0 auto;
+  
+  }
+h2{
+  color: #11999E;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  padding-bottom: 10px;
+  }
+  
+
+h3{
+   color: #11999E;
+   }
+p{
+  line-height: 2;
+}
+
+hr{
+  border: dotted #EAF6F6 8px;
+  border-bottom: none;
+  width: 10%;
+  margin: 100px auto;
+}
+  
+
+
+.top-container{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+  
+}
+.middle-container{
+   margin: 100px 0;
+   
+  }
+.bottom-container{
+     background-color: #66bfbf;
+     padding: 50px 0 20px;
+  }
+a {
+  color: #11278;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  font-weight: 100px;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+color: #eaf6f6;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 50px;
+  top: 50px;
+  }
+  
+.bottom-cloud {
+  position: relative;
+  left: 50px;
+  bottom: 200px;
+  }
+
+.mountains{
+  display: block;
+  margin-left: 80px;
+  }
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  }
+
+.skill1-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  }
+
+.skill2-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  }
+  
+ .Into{
+   width: 30%;
+   margin: auto;
+   }
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright{
+  color: #eaf6f6;
+  font-size: 0.7rem;
+  padding: 20px 0;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #119998);
+  background-image: -moz-linear-gradient(top, #11cdd4, #119998);
+  background-image: -ms-linear-gradient(top, #11cdd4, #119998);
+  background-image: -o-linear-gradient(top, #11cdd4, #119998);
+  background-image: linear-gradient(to bottom, #11cdd4, #119998);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 30px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3ce3cb;
+  background-image: -webkit-linear-gradient(top, #3ce3cb, #2bc49d);
+  background-image: -moz-linear-gradient(top, #3ce3cb, #2bc49d);
+  background-image: -ms-linear-gradient(top, #3ce3cb, #2bc49d);
+  background-image: -o-linear-gradient(top, #3ce3cb, #2bc49d);
+  background-image: linear-gradient(to bottom, #3ce3cb, #2bc49d);
+  text-decoration: none;
+  }
+  
+  
+  
+
+    
+    
+    
+    
+    
+    
+
+  
+  
+  
+  
